@@ -55,13 +55,10 @@ Because if you don't specify it, the script will throw an error during execution
 
 Possible options:
 
-'Windows Server 2022 SERVERSTANDARDCORE',
-
-'Windows Server 2022 SERVERSTANDARD',
-
-'Windows Server 2022 SERVERDATACENTERCORE',
-
-'Windows Server 2022 SERVERDATACENTER',
+'Windows Server 2022 SERVERSTANDARDCORE',  
+'Windows Server 2022 SERVERSTANDARD',  
+'Windows Server 2022 SERVERDATACENTERCORE',  
+'Windows Server 2022 SERVERDATACENTER',  
 
 You can specify one of these.
 
@@ -85,11 +82,11 @@ You need copy URL from ISO image. ( choose ypu lahguage )
 After running the script, you will be prompted to reboot the system.
 Enter the command `reboot`
 
-***** INFO *****
-windows
-Username: administrator
-Password: 12345678
-Reboot to start the installation.
+***** INFO *****  
+windows  
+Username: administrator  
+Password: 12345678  
+Reboot to start the installation.  
 
 The script will provide you with the login credentials for the server. Save them.
 
