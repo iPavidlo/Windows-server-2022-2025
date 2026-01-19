@@ -74,7 +74,7 @@ acctual ISO image here
 
 2022 : https://www.microsoft.com/en-us/evalcenter/download-windows-server-2025
 
-You need copy URL from ISO image. ( choose ypu lahguage )
+You need copy URL from ISO image. ( choose you language )
 
 <img width="1097" height="586" alt="Screenshot 2026-01-18 at 20 57 16" src="https://github.com/user-attachments/assets/f5f745e3-e854-4fdc-88b6-4c7dac15c042" />
 
