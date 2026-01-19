@@ -43,10 +43,7 @@ If you forgot password =)) you can will recover him . Choose ypu server than Cli
 NExt Enter the following command:
 
 ```bash
-curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && \
-bash reinstall.sh windows \
---iso 'https://go.microsoft.com/fwlink/p/?LinkID=2195280&clcid=0x409&culture=en-us&country=US' \
---image-name 'Windows Server 2022 SERVERSTANDARD'
+curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh windows --iso 'https://go.microsoft.com/fwlink/p/?LinkID=2195280&clcid=0x409&culture=en-us&country=US' --image-name 'Windows Server 2022 SERVERSTANDARD' --password ‘12345678’
 ```
 
 Why did we specify --image-name 'Windows Server 2022 SERVERSTANDARD' immediately?
